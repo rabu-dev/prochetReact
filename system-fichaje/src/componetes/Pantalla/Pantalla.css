@@ -1,0 +1,15 @@
+
+.time{
+    font-size: 100px;
+    font-weight: bold;
+    color: #fff
+}
+.date{
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+

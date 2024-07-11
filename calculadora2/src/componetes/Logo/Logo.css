@@ -1,0 +1,11 @@
+.rabu-logo-cont{
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rabu-logo{
+    height: 40px;
+}

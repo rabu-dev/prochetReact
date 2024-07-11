@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.boton-cont{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3em;
+}
+.pantalla-cont{
+  margin: 0 auto;
+  width: 450px;
+  height: 200px;
+  margin-top: 2em;
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: #4a4a4a solid 5px;
+  border-radius: 34px;
+}
+
+.setDatos{
+  font-size: 2em;
+  margin: 0 auto;
+  width: 450px;
+  height: 200px;
+  margin-top: 2em;
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: #4a4a4a solid 5px;
+  border-radius: 34px;
+}
